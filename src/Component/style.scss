@@ -1,0 +1,27 @@
+div{
+    width:100%;
+    height:100vh;
+    background:blue;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+button{
+    padding:20px 30px;
+    background: #5eb984;
+    color:rgb(227, 238, 231);
+    border:5px solid #ecf0f1;
+    outline: none;
+    border-radius:10px;
+    text-transform:uppercase;
+    cursor:pointer;
+    font-size:20px;
+    font-style:bold;
+}
+.anchor{
+    position:absolute;
+    bottom: 0;
+    color:chocolate;
+    font-size: 50px;
+
+}
